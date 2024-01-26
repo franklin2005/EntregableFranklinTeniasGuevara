@@ -8,3 +8,8 @@ img {
     height: 500px;
     justify-self: center;
 }
+
+ul {
+    justify-self: center;
+    list-style: none;
+}
